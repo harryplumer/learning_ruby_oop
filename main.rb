@@ -30,5 +30,4 @@ class Person
 end
 
 person_1 = Person.new("Brown", "Green", "Male", 11, "Harry Plumer", 28, 5.9)
-binding.pry
 puts person_1.info
